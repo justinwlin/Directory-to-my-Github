@@ -11,7 +11,7 @@ This is a repository with my neural network projects. Using a variety of resourc
   - [Linear Regression/Gradient Descent](https://github.com/justinwlin/Neural-Network/tree/master/linearRegression)
     - Linear Regression to figure out if "dots" were above a line or not. Trying to learn about gradient descent.
   - [Self-Built Neural Network Using Python and Numpy for Matrix Calculation](https://github.com/justinwlin/Neural-Network/tree/master/Neural_Network_Numpy)
-    - Applied everything I learnt and wrote from scratch by myself a supervised neural network model, using Python and Numpy
+    - Applied everything I learnt and wrote from scratch, by myself, a supervised neural network model, using Python and Numpy
 ### [Side Projects](https://github.com/justinwlin/Side_Projects)
 This is a repository of side projects that I undertake to try to get better in programming.
   - [Orderbook Simulator Prototype](https://github.com/justinwlin/Side_Projects/tree/master/OrderBook%20Prototype)
