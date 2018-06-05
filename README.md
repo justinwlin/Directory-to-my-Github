@@ -1,10 +1,7 @@
 # Directory to my Github
-
 ## About
 This is a respository to serve as an easy directory to my Github. Each repository will have more README(s) to give information about that repository. 
-
 ## Projects
-
 ### [Neural Network](https://github.com/justinwlin/Neural-Network)
 This is a repository with my neural network projects. Using a variety of resources I have been teaching myself about deep neural networks.
   - [Genetic Algorithm to solve a Maze](https://github.com/justinwlin/Neural-Network/tree/master/MazeGeneration)
@@ -15,22 +12,17 @@ This is a repository with my neural network projects. Using a variety of resourc
     - Linear Regression to figure out if "dots" were above a line or not. Trying to learn about gradient descent.
   - [Self-Built Neural Network Using Python and Numpy for Matrix Calculation](https://github.com/justinwlin/Neural-Network/tree/master/Neural_Network_Numpy)
     - Applied everything I learnt and wrote from scratch by myself a supervised neural network model, using Python and Numpy
-
-### [OpenGL](https://github.com/justinwlin/OpenGL)
-This is a repository as I try to learn about graphics processing using C++.
-
 ### [Side Projects](https://github.com/justinwlin/Side_Projects)
 This is a repository of side projects that I undertake to try to get better in programming.
   - [Orderbook Simulator Prototype](https://github.com/justinwlin/Side_Projects/tree/master/OrderBook%20Prototype)
     - Goal of this Order book Prototype was to apply data structure and as a fun side-project that my friend and I competed to work on. 
-    
+### [OpenGL](https://github.com/justinwlin/OpenGL)
+This is a repository as I try to learn about graphics processing using C++.
 ### MSC
-
 #### [High School Java Game](https://github.com/justinwlin/HS_Final_Java_Game):
 Built a game from scratch in Java. 
   - Figured out the math for pixel generation and tile generation.
   - Wrote a level editor program to take in a picture and generate a level based on the pixels.
-
 #### [LFAV - Text Game Simulator](https://github.com/justinwlin/LFAV)
 Built a text-battle simulator for a friend. 
   - Prototype to help figure out some details and balancing issue before writing a full on game.
