@@ -18,6 +18,10 @@ This is a repository of side projects that I undertake to try to get better in p
     - Goal of this Order book Prototype was to apply data structure and as a fun side-project that my friend and I competed to work on. 
 ### [OpenGL](https://github.com/justinwlin/OpenGL)
 This is a repository as I try to learn about graphics processing using C++.
+
+### [Aurora - WIP](https://github.com/SteveUcho/Aurora)
+A work in progress with a friend to use electron.js, javascript, html, and css to build a graphical interface for Machine Learning.
+
 ### MSC
 #### [High School Java Game](https://github.com/justinwlin/HS_Final_Java_Game):
 Built a game from scratch in Java. 
