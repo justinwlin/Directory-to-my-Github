@@ -15,7 +15,8 @@ This is a repository with my neural network projects. Using a variety of resourc
 ### [Side Projects](https://github.com/justinwlin/Side_Projects)
 This is a repository of side projects that I undertake to try to get better in programming.
   - [Orderbook Simulator Prototype](https://github.com/justinwlin/Side_Projects/tree/master/OrderBook%20Prototype)
-    - Goal of this Order book Prototype was to apply data structure and as a fun side-project that my friend and I competed to work on. 
+    - Goal of this Order book Prototype was to apply data structure and as a fun side-project to mimic an order book in a simulated market.
+    - Reads in a CSV file and executes based on it. 
 ### [OpenGL](https://github.com/justinwlin/OpenGL)
 This is a repository as I try to learn about graphics processing using C++.
 
