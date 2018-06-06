@@ -13,7 +13,7 @@ This is a repository with my neural network projects. Using a variety of resourc
   - [Self-Built Neural Network Using Python and Numpy for Matrix Calculation](https://github.com/justinwlin/Neural-Network/tree/master/Neural_Network_Numpy)
     - Applied everything I learnt and wrote from scratch, by myself, a supervised neural network model, using Python and Numpy
   - [NeuroEvolution Flappy Bird](https://github.com/justinwlin/Neural-Network/tree/master/FlappyBird_Neural_Network)
-    - This is code following a series by [Daniel Shiffman](https://www.youtube.com/watch?v=c6y21FkaUqw) teaching how to apply and combine genetic algorithm and neural networks together.
+    - **This is code following a series by [Daniel Shiffman]**(https://www.youtube.com/watch?v=c6y21FkaUqw) teaching how to apply and combine genetic algorithm and neural networks together.
     - This was a learning experience project as I followed along, and got to learn how to apply neural networks and genetic algorithms together. By going to the repo, I included ideas on how to further improve the project in the future and how I would go further than the tutorial did. 
 ### [Side Projects](https://github.com/justinwlin/Side_Projects)
 This is a repository of side projects that I undertake to try to get better in programming.
