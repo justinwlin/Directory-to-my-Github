@@ -2,6 +2,9 @@
 ## About
 This is a respository to serve as an easy directory to my Github. Each repository will have more README(s) to give information about that repository. 
 ## Projects
+### [Dev Apps](https://github.com/justinwlin/DevApp)
+This is a respository of my work as I learn to develop apps for Android and IOS, original and tutorial works. 
+
 ### [Neural Network](https://github.com/justinwlin/Neural-Network)
 This is a repository with my neural network projects. Using a variety of resources I have been teaching myself about deep neural networks.
   - [Genetic Algorithm to solve a Maze](https://github.com/justinwlin/Neural-Network/tree/master/MazeGeneration)
