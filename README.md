@@ -4,9 +4,7 @@ This is a respository to serve as an easy directory to my Github. Each repositor
 ## Projects
 ### Dev Apps
 I am working on many app projects, but these are the main ones that I am putting public on Github. 
-
-- [Bitcoin](https://github.com/justinwlin/Bitcoin)
-  - Bitcoin tracker for phone and android wear. Practice to work with API calls, a bit of UI, and to learn have fun b/c I got into Blockchain technology.
+- [Bitcoin](https://github.com/justinwlin/Bitcoin) : Bitcoin tracker for phone and android wear. Practice to work with API calls, a bit of UI, and to learn have fun b/c I got into Blockchain technology.
 
 ### [Neural Network](https://github.com/justinwlin/Neural-Network)
 This is a repository with my neural network projects. Using a variety of resources I have been teaching myself about deep neural networks.
