@@ -5,7 +5,7 @@ This is a respository to serve as an easy directory to my Github. Each repositor
 ### Web Dev and App Dev
 I am working on many app projects, but these are the main ones that I am putting public on Github. 
 - [Bitcoin](https://github.com/justinwlin/Bitcoin) : Bitcoin tracker for phone and android wear. Practice to work with API calls, a bit of UI, and to have fun learning.
-- [Face Detect Code](https://github.com/justinwlin/WebDev/tree/master/FaceDetect-Project) [Website Link](https://smartbrainjwl.herokuapp.com/) : Wrote a website using React, Node.js, and Postgresql. Deployed front-end and back-end online on Heroku.
+- [Face Detection Website Respository](https://github.com/justinwlin/Face_Detection_Website) | [Website Link](https://smartbrainjwl.herokuapp.com/) : Wrote a website using React, Node.js, and Postgresql. Deployed front-end and back-end online on Heroku.
 
 ### [Neural Network](https://github.com/justinwlin/Neural-Network)
 This is a repository with my neural network projects. Using a variety of resources I have been teaching myself about deep neural networks.
