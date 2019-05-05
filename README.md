@@ -1,4 +1,5 @@
 # Directory to my Github
+# NOTE : NEEDS TO BE UPDATED WITH NEW REPOS / PROJECTS
 ## About
 This is a respository to serve as an easy directory to my Github. Each repository will have more README(s) to give information about that repository. 
 ## Projects
