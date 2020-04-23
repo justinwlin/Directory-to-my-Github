@@ -1,3 +1,9 @@
+# Testing 
+> Quote box
+Wow I am amazing
+1. 
+
+
 # Directory to my Github
 # NOTE : NEEDS TO BE UPDATED WITH NEW REPOS / PROJECTS
 ## About
